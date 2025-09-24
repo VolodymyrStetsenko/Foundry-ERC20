@@ -28,3 +28,4 @@ Thumbs.db
 
 # NPM packages 
 node_modules/lcov.info
+lcov.info
