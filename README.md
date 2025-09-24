@@ -22,6 +22,7 @@ This repository is my practical implementation of an ERC20 token based on Cyfrin
     - [Environment Variables](#environment-variables)
   - [Local Development (Anvil)](#local-development-anvil)
   - [Testing \& Coverage](#testing--coverage)
+      - [Coverage screenshots](#coverage-screenshots)
     - [Gas Reports](#gas-reports)
   - [Deployments](#deployments)
     - [Deploy to Sepolia](#deploy-to-sepolia)
@@ -140,6 +141,20 @@ forge coverage --report lcov
 genhtml lcov.info -o coverage-html
 xdg-open coverage-html/index.html
 ```
+#### Coverage screenshots
+
+Top-level summary  
+![LCOV top level](docs/images/coverage/IMG_4945.PNG)
+
+Source files (src)  
+![LCOV src](docs/images/coverage/IMG_4943.PNG)
+
+Scripts (script)  
+![LCOV script](docs/images/coverage/IMG_4944.PNG)
+
+Tests (test)  
+![LCOV test](docs/images/coverage/IMG_4942.PNG)
+
 
 **What’s covered:**
 
