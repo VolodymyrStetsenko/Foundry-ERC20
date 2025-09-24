@@ -1,4 +1,6 @@
-````markdown
+
+---
+
 # 🪙 ERC20 Token — Foundry (Sepolia Verified)
 
 **Solidity License:** MIT
@@ -8,28 +10,30 @@ This repository is my practical implementation of an ERC20 token based on Cyfrin
 ---
 
 ## Table of Contents
-- [Overview](#overview)
-- [Tech Stack](#tech-stack)
-- [Contracts](#contracts)
-- [Deployment Proof (Sepolia)](#deployment-proof-sepolia)
-- [Getting Started](#getting-started)
-  - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
-  - [Environment Variables](#environment-variables)
-- [Local Development (Anvil)](#local-development-anvil)
-- [Testing & Coverage](#testing--coverage)
-  - [Gas Reports](#gas-reports)
-- [Deployments](#deployments)
-  - [Deploy to Sepolia](#deploy-to-sepolia)
-  - [Manual Verification](#manual-verification)
-- [Interaction (cast)](#interaction-cast)
-- [Reproducibility (broadcast)](#reproducibility-broadcast)
-- [Notes on `ManualToken`](#notes-on-manualtoken)
-- [Formatting](#formatting)
-- [Docs & Screenshots](#docs--screenshots)
-- [Credits](#credits)
-- [Contact](#contact)
-- [License](#license)
+- [🪙 ERC20 Token — Foundry (Sepolia Verified)](#-erc20-token--foundry-sepolia-verified)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Tech Stack](#tech-stack)
+  - [Contracts](#contracts)
+  - [Deployment Proof (Sepolia)](#deployment-proof-sepolia)
+  - [Getting Started](#getting-started)
+    - [Requirements](#requirements)
+    - [Quickstart](#quickstart)
+    - [Environment Variables](#environment-variables)
+  - [Local Development (Anvil)](#local-development-anvil)
+  - [Testing \& Coverage](#testing--coverage)
+    - [Gas Reports](#gas-reports)
+  - [Deployments](#deployments)
+    - [Deploy to Sepolia](#deploy-to-sepolia)
+    - [Manual Verification](#manual-verification)
+  - [Interaction (cast)](#interaction-cast)
+  - [Reproducibility (broadcast)](#reproducibility-broadcast)
+  - [Notes on `ManualToken`](#notes-on-manualtoken)
+  - [Formatting](#formatting)
+  - [Docs \& Screenshots](#docs--screenshots)
+  - [Credits](#credits)
+  - [Contact](#contact)
+  - [License](#license)
 
 ---
 
@@ -294,6 +298,4 @@ forge fmt
 
 MIT — see `LICENSE`.
 
-```
-::contentReference[oaicite:0]{index=0}
-```
+---
