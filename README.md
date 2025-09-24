@@ -103,9 +103,9 @@ forge --version
 ### Quickstart
 
 ```bash
-git clone <this-repo>
-cd <this-repo>
-forge install
+git clone https://github.com/VolodymyrStetsenko/Foundry-ERC20.git
+cd Foundry-ERC20
+git submodule update --init --recursive
 forge build
 ```
 
