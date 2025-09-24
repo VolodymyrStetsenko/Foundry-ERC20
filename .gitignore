@@ -31,6 +31,4 @@ node_modules/lcov.info
 lcov.info
 
 # keep coverage screenshots in docs
-!docs/images/coverage/
-!docs/images/coverage/*.PNG
 .gitignore.bak
