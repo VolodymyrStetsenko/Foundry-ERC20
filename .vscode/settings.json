@@ -1,0 +1,23 @@
+{
+  "solidity.compileUsingRemoteVersion": "v0.8.30",
+
+  
+  "solidity.packageDefaultDependenciesDirectory": "lib",
+  "solidity.packageDefaultDependenciesContractsDirectory": "contracts",
+
+
+  "solidity.remappings": [
+    "forge-std/=lib/forge-std/src/",
+    "foundry-devops/=lib/foundry-devops/src/",
+    "@openzeppelin/=lib/openzeppelin-contracts/",
+    "openzeppelin-contracts/=lib/openzeppelin-contracts/"
+  ],
+
+
+  "solidity.exclude": [
+    "**/lib/**",
+    "**/out/**",
+    "**/broadcast/**",
+    "**/cache/**"
+  ]
+}

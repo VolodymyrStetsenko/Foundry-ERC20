@@ -1,0 +1,9 @@
+{
+  "network": "sepolia",
+  "chainId": 11155111,
+  "contract": "OurToken",
+  "address": "0x98efCe50e393315a4aC187494E6d84Bd82B811c9",
+  "deployTx": "0xd40c121715cfc1744fbdb0e3a512ba916c31b38ef51d6f9cd776a790a1a49983",
+  "verified": true,
+  "constructorArgsHex": "0x00000000000000000000000000000000000000000000d3c21bcecceda1000000"
+}

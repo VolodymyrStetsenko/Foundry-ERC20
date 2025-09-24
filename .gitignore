@@ -1,0 +1,30 @@
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+!/broadcast
+/broadcast/*/31337/
+/broadcast/**/dry-run/
+
+
+# Dotenv file
+.env
+
+# zkSync
+zkout/
+
+# Coverage artifacts
+coverage-html/
+coverage/
+lcov-report/
+*.lcov
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+
+# NPM packages 
+node_modules/lcov.info
