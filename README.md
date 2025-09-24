@@ -5,7 +5,7 @@
 
 **Solidity License:** MIT
 
-This repository is my practical implementation of an ERC20 token based on Cyfrin Updraft (Patrick Collins), with my own additions: full test suite, coverage, deployment and verification on Sepolia, reproducible artifacts in `broadcast/`, and a README with reproduction steps.
+This repository is my practical implementation of an ERC20 token based on Cyfrin Updraft (Instructor: Patrick Collins), with my own additions: full test suite, coverage, deployment and verification on Sepolia, reproducible artifacts in `broadcast/`, and a README with reproduction steps.
 
 ---
 
